@@ -1,0 +1,8 @@
+.swiper-pagination-bullet {
+  border-radius: 0 !important;
+  background-color: #b0b0b0 !important;
+  transform: rotate(35deg) !important;
+}
+.swiper-pagination-bullet-active {
+  background-color: #ff4300 !important;
+}
